@@ -1,0 +1,35 @@
+name: "Proposal"
+description: Suggest a product enhancement idea! We'll review these as part of our ongoing roadmap planning process.
+title: "[service] [request]: describe request here"
+labels: [Proposed, Triage]
+body:
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Required Terms
+      description: You must agree to follow our [Code of Conduct](https://github.com/heroku/roadmap/blob/main/CODE_OF_CONDUCT.md) and accept [Salesforce Program Agreement](https://www.salesforce.com/company/program-agreement/) to create proposals.
+      options:
+          - label: I agree to follow this project's [Code of Conduct](https://github.com/heroku/roadmap/blob/main/CODE_OF_CONDUCT.md)
+            required: true
+          - label: I have read and accept the [Salesforce Program Agreement](https://www.salesforce.com/company/program-agreement/)
+            required: true
+  - type: input
+    attributes:
+      label: What service(s) is this request for?
+      description: This could be dynos, Postgres, Connect, etc
+      placeholder: Please specify at least one service that would benefit
+  - type: textarea
+    attributes:
+      label: Tell us about what you're trying to solve. What challenges are you facing?
+      placeholder: What's the impact of not having this impemented? The more information and context you can provide, the better we're able to understand it and work on solutions.
+      render: markdown
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ### Note
+        
+        * Please vote on this issue by adding a 👍 [reaction](https://blog.github.com/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) to the original issue.
+        * Please do not leave "+1" or "me too" comments, they generate extra noise for issue followers and do not help prioritize the request. 
+        * Only thumbs up reactions will be counted as votes during the Heroku team's review.
