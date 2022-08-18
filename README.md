@@ -1,3 +1,4 @@
+<img src="https://github.com/heroku/roadmap/blob/main/img/sfdc.png?raw=true" height="100" style="float: left;"><img src="https://github.com/heroku/roadmap/blob/main/img/heroku.png?raw=true" height="100" style="float: left;" >
 ## Salesforce Heroku Roadmap
 
 This is the public roadmap for Salesforce Heroku services. Welcome!
