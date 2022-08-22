@@ -30,7 +30,7 @@ We welcome both comments on existing roadmap items via the underlying Github iss
 
 **Q: What do the roadmap categories mean?** 
 
-* *Researching* - We're looking into this idea, often in the form of requirements gathering or thinking through potential designs. This is an idea time to share feedback.
+* *Researching* - We're looking into this idea, often in the form of requirements gathering or thinking through potential designs. This is an ideal time to share feedback.
 * *Working on it* - Actively being worked on. We're looking to finalize requirements as quickly as reasonable, but the details are often still flexible.
 * *Coming soon* - We expect to deliver this within the next month or two, roughly. Changes at this point are more likely to be more fine-grained details. Items tagged pilot, beta, or dev preview may be in this state for longer as we work on getting them to GA.
 * *Shipped* - Done & delivered at as generally available, unless otherwise noted.
