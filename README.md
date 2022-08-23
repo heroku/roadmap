@@ -6,7 +6,7 @@ This is the public roadmap for Salesforce Heroku services. Welcome!
 [See the roadmap »](https://github.com/orgs/heroku/projects/130)
 
 ## Introduction
-Heroku would like to share more about what we're researching and working on to make it easier to view, and share feedback on upcoming improvements to our services.
+Salesforce would like to share more about what we're researching and working on to make it easier to view, and share feedback on upcoming improvements to Salesforce's Heroku services.
 
 --- 
 
@@ -22,16 +22,16 @@ A tip of the hat in thanks to the [AWS Containers team's public roadmap](https:/
 
 
 ### Scope
-This roadmap covers only services under the Heroku family of products. To see roadmaps for other Salesforce products take a look at the [Salesforce Architects Roadmap Explorer](https://architect.salesforce.com/roadmaps/roadmap-explorer), or the [Salesforce IdeaExchange](https://ideas.salesforce.com/).
+This roadmap covers only services under Salesforce's Heroku family of products. To see roadmaps for other Salesforce products take a look at the [Salesforce Architects Roadmap Explorer](https://architect.salesforce.com/roadmaps/roadmap-explorer), or the [Salesforce IdeaExchange](https://ideas.salesforce.com/).
 
-We welcome both comments on existing roadmap items via the underlying Github issues, as well as posting your own feature requests or ideas for improvements to Heroku services via new issues.
+We welcome both comments on existing roadmap items via the underlying Github issues, as well as posting your own feature requests or ideas for improvements to Salesforce's Heroku services via new issues.
 
 ## FAQs
 
 **Q: What do the roadmap categories mean?** 
 
-* *Researching* - We're looking into this idea, often in the form of requirements gathering or thinking through potential designs. This is an ideal time to share feedback.
-* *Working on it* - Actively being worked on. We're looking to finalize requirements as quickly as reasonable, but the details are often still flexible.
+* *Researching* - We're looking into this idea, often in the form of requirements gathering or thinking through potential designs. This is a great time to show support or dissent for various features.
+* *Working on it* - Actively being worked on. We're looking to finalize requirements as quickly as reasonable, but the details are often still flexible.  This is an ideal time to share feedback on individual items.
 * *Coming soon* - We expect to deliver this within the next month or two, roughly. Changes at this point are more likely to be more fine-grained details. Items tagged pilot, beta, or dev preview may be in this state for longer as we work on getting them to GA.
 * *Shipped* - Done & delivered at as generally available, unless otherwise noted.
 
@@ -46,7 +46,7 @@ A: Our top priority is a focus on security, stability, and availability of our s
 
 **Q: Is everything on the roadmap?**
 
-A: The majority of our development work for Heroku projects are included on this roadmap. Smaller incremental improvements/changes may be scheduled more opportunistically and not represented on this roadmap, depending on utility.
+A: The majority of our development work for Salesforce's Heroku projects are included on this roadmap. Smaller incremental improvements/changes may be scheduled more opportunistically and not represented on this roadmap, depending on utility.  Of course, this doesn't preclude the occasional project that we may launch without notice in order to preserve the element of surprise.
 
 
 **Q: How can I request a feature be added to the roadmap?**
