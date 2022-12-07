@@ -1,6 +1,6 @@
 name: "Proposal"
 description: Suggest a product enhancement idea! We'll review these as part of our ongoing roadmap planning process.
-title: "[service] [request]: describe request here"
+title: "Describe request here"
 labels: [Proposed, Triage]
 body:
   - type: checkboxes
@@ -16,7 +16,7 @@ body:
   - type: input
     attributes:
       label: What service(s) is this request for?
-      description: This could be dynos, Postgres, Connect, etc
+      description: This could be Heroku dynos, Postgres, Connect, Salesforce Functions, etc
       placeholder: Please specify at least one service that would benefit
   - type: textarea
     attributes:
