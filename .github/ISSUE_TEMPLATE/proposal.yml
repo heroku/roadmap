@@ -21,8 +21,7 @@ body:
   - type: textarea
     attributes:
       label: Tell us about what you're trying to solve. What challenges are you facing?
-      placeholder: What's the impact of not having this impemented? The more information and context you can provide, the better we're able to understand it and work on solutions.
-      render: markdown
+      placeholder: What's the impact of not having this implemented? The more information and context you can provide, the better we're able to understand it and work on solutions.
     validations:
       required: true
   - type: markdown
