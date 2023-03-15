@@ -1,12 +1,12 @@
 <img src="https://github.com/heroku/roadmap/blob/main/img/sfdc.png?raw=true" height="100" style="float: left;"><img src="https://github.com/heroku/roadmap/blob/main/img/heroku.png?raw=true" height="100" style="float: left;" >
 ## Salesforce Heroku Roadmap
 
-This is the public roadmap for Salesforce Heroku services. Welcome!
+This is the public roadmap for Salesforce Heroku. Welcome!
 
 [See the roadmap »](https://github.com/orgs/heroku/projects/130)
 
 ## Introduction
-Salesforce would like to share more about what we're researching and working on to make it easier to view, and share feedback on upcoming improvements to Salesforce's Heroku services.
+Salesforce would like to share more about what we're researching and working on to make it easier to view, and share feedback on upcoming improvements to Heroku.
 
 --- 
 
@@ -16,15 +16,13 @@ Issues, comments, and other interactions you make in this repo and project are a
 
 ---
 
-
 A tip of the hat in thanks to the [AWS Containers team's public roadmap](https://github.com/aws/containers-roadmap) for inspiration on the formatting and approach.
 
-
-
 ### Scope
-This roadmap covers only services under Salesforce's Heroku family of products. To see roadmaps for other Salesforce products take a look at the [Salesforce Architects Roadmap Explorer](https://architect.salesforce.com/roadmaps/roadmap-explorer), or the [Salesforce IdeaExchange](https://ideas.salesforce.com/).
 
-We welcome both comments on existing roadmap items via the underlying Github issues, as well as posting your own feature requests or ideas for improvements to Salesforce's Heroku services via new issues.
+This roadmap covers only services in the Heroku family of products. To see roadmaps for other Salesforce products take a look at the [Salesforce Architects Roadmap Explorer](https://architect.salesforce.com/roadmaps/roadmap-explorer), or the [Salesforce IdeaExchange](https://ideas.salesforce.com/).
+
+We welcome both comments on existing roadmap items via the underlying Github issues, as well as posting your own feature requests or ideas for improvements to Heroku via new issues.
 
 ## FAQs
 
