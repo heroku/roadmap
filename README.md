@@ -3,7 +3,7 @@
 
 This is the public roadmap for Heroku. Welcome!
 
-[See the roadmap »](https://github.com/orgs/heroku/projects/130)
+**[» See the roadmap here «](https://github.com/orgs/heroku/projects/130)**
 
 ## Introduction
 
