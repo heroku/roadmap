@@ -38,7 +38,7 @@ A: We want to share more details about what we're working on and gather feedback
 
 **Q: Why are there no dates on your roadmap?**
 
-A: Security, stability, and availability of Heroku is our top priority. That means we cannot commit to hard deadlines for new feature work because plans may change due to operational priorities. We're strongly comitted transparancy in the roadmap and will update issues as we make progress or if we encounter delays. Items on the roadmap are not a firm guarantee that a feature will be released.
+A: Security, stability, and availability of Heroku is our top priority. That means we cannot commit to hard deadlines for new feature work because plans may change due to operational priorities. We're strongly committed transparency in the roadmap and will update issues as we make progress or if we encounter delays. Items on the roadmap are not a firm guarantee that a feature will be released.
 
 
 **Q: Is everything on the roadmap?**
